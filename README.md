@@ -27,8 +27,11 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 2. esm 지원하도록 소스 개선
 
 3. cdn 배포를 위한 소스 개선
+ 
+<script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.5/mobile-detect.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.6/dist/tbsgrid.min.js"></script>
 
-4. npm 배포를 위한 소스 개선
+5. npm 배포를 위한 소스 개선
 
 ### 2024-09-20
 
