@@ -26,6 +26,8 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 
 2. esm 지원하도록 소스 개선
 
+* webpack 을 통한 esm 파일 생성
+
 3. cdn 배포를 위한 소스 개선
 
 * <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js" />
@@ -41,6 +43,8 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 * <script src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/tbsgrid.min.js" />
  
 5. npm 배포를 위한 소스 개선
+
+* npm 배포 테스트 중. 
 
 ### 2024-09-20
 
