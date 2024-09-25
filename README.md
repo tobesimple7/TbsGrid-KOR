@@ -34,7 +34,7 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
  
 * <script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.5/mobile-detect.min.js" />
 
-* image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.6/dist/img
+* image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/img
 
 * <style src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/css/tbsgrid.css" />
  
