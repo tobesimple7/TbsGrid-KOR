@@ -48,11 +48,11 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
  
 5. npm 배포 테스트
 
-npm install tbsgrid_test
+* npm install tbsgrid_test
 
-import { TbsGrid } from 'tbsgrid_test';
+* import { TbsGrid } from 'tbsgrid_test';
 
-import { tbsGridConfigs } from 'tbsgrid_test/dist/tbsgrid-configs.mjs';
+* import { tbsGridConfigs } from 'tbsgrid_test/dist/tbsgrid-configs.mjs';
 
 ### 2024-09-20
 
