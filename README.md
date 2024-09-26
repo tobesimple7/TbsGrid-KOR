@@ -38,7 +38,7 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 
 --- 
 
-* image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/img
+* image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.9/dist/img
 
 * <style src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/css/tbsgrid.css" />
  
