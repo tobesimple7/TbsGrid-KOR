@@ -28,23 +28,31 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 
 * webpack 을 통한 esm 파일 생성
 
-3. cdn 배포를 위한 소스 개선
+3. cdn 배포 테스트
 
+* Dependency
+  
 * <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js" />
  
 * <script src="https://cdn.jsdelivr.net/npm/mobile-detect@1.4.5/mobile-detect.min.js" />
 
+--- 
+
 * image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/img
 
-* <style src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/css/tbsgrid.css" />
+* <style src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/css/tbsgrid.css" />
  
-* <script src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/tbsgrid-configs.js" />
+* <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/tbsgrid-configs.js" />
  
-* <script src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.7/dist/tbsgrid.min.js" />
+* <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/tbsgrid.min.js" />
  
-5. npm 배포를 위한 소스 개선
+5. npm 배포 테스트
 
-* npm 배포 테스트 중. (배포 후 import 오류 처리 중)
+npm install tbsgrid_test
+
+import { TbsGrid } from 'tbsgrid_test';
+
+import { tbsGridConfigs } from 'tbsgrid_test/dist/tbsgrid-configs.mjs';
 
 ### 2024-09-20
 
