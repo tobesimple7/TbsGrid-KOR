@@ -46,13 +46,15 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
  
 * <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/tbsgrid.min.js" />
  
-5. npm 배포 테스트
+4. npm 배포 테스트
 
 * npm install tbsgrid_test
 
 * import { TbsGrid } from 'tbsgrid_test';
 
 * import { tbsGridConfigs } from 'tbsgrid_test/dist/tbsgrid-configs.mjs';
+
+5. typescript 지원은 올해 연말 까지 계획 중 
 
 ### 2024-09-20
 
