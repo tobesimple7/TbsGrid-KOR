@@ -52,15 +52,15 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 
 * image root path : https://cdn.jsdelivr.net/npm/tbsgrid@0.0.9/dist/img
 
-* <style src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/css/tbsgrid.css" />
+* <style src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.11/dist/css/tbsgrid.css" />
  
-* <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/tbsgrid-configs.js" />
+* <script src="https://cdn.jsdelivr.net/npm/tbsgrid@0.0.11/dist/tbsgrid-configs.js" />
  
-* <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.9/dist/tbsgrid.min.js" />
+* <script src="https://cdn.jsdelivr.net/npm/tbsgrid_test@0.0.11/dist/tbsgrid.min.js" />
  
 4. npm 배포 테스트
 
-* https://www.npmjs.com/package/tbsgrid_test
+* https://www.npmjs.com/package/tbsgrid
 
 * npm install tbsgrid_test
 
