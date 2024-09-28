@@ -21,10 +21,9 @@ TbsGrid에 궁금한 점이 있으시면 이슈에 적어주시면, 답변 드�
 # 히스토리
 
 ### 계획
-
 1. options 정리
 
-2. cellType 확장
+2. cellType 확장 - checkbox, image, button, svg(chart)
 
 3. let, const 변수 정리(메모리 감소)
 
